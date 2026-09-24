@@ -26,11 +26,11 @@ Currently learning the JavaScript ecosystem and improving my skills by building,
 
 ---
 
-## 📊 GitHub
+## 📊 Git, GitHub and System
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,ubuntu" />
 
 </div>
 
