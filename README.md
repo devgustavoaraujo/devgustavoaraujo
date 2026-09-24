@@ -7,7 +7,7 @@
 Building, learning and turning ideas into real projects.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,php" />
 </p>
 
 <a href="https://github.com/devgustavoaraujo">
